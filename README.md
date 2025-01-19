@@ -1,4 +1,5 @@
 # Telecom Customer Churn Attrition Prediction
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ![Screenshot 2024-09-15 101758](https://github.com/user-attachments/assets/b0b6dfaf-2cff-473d-a3e3-9c01c67e584b)
 
